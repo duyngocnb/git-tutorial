@@ -1,0 +1,11 @@
+.footer {
+    background-color: hotpink;
+    color: blue;
+}
+.title-footer{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.title-footer span{color: red;}
